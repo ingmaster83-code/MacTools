@@ -1,4 +1,4 @@
-const CACHE_NAME = 'MacTools-v1';
+const CACHE_NAME = 'MacTools-v2';
 const ASSETS = ['/', '/index.html', '/css/style.css'];
 
 self.addEventListener('install', e => {
