@@ -1,0 +1,69 @@
+# WooaMac
+> Mac 사용자를 위한 무료 유틸리티 도구 모음
+
+WooaMac은 설치나 로그인 없이 브라우저에서 바로 사용하는 무료 온라인 도구 모음입니다. 모든 처리는 사용자 브라우저 내에서 이루어지며 파일을 서버로 전송하지 않습니다.
+
+## Tools
+- [7-Zip](https://mactools.wooahouse.com/apps/7-zip.html): 오픈소스 무료 압축 프로그램. 업계 최고 수준의 압축률, 광고 없음
+- [Alfred](https://mactools.wooahouse.com/apps/alfred.html): Mac 대표 런처·자동화 도구. Spotlight보다 강력한 검색, 워크플로우 자동화
+- [AppCleaner](https://mactools.wooahouse.com/apps/appcleaner.html): Mac 앱 완전 삭제 도구. 앱 관련 모든 파일을 찾아 깔끔하게 제거, 무료
+- [Arc](https://mactools.wooahouse.com/apps/arc.html): Mac 전용 혁신적 브라우저. 사이드바 탭·스페이스 관리로 완전히 새로운 브라우징 경험
+- [Avast](https://mactools.wooahouse.com/apps/avast.html): 무료 Mac 백신. 실시간 보호·웹 차폐·이메일 보안 기능 무료 제공
+- [Bartender](https://mactools.wooahouse.com/apps/bartender.html): Mac 메뉴바 아이콘 정리 앱. 숨기기·재배열·검색으로 메뉴바 관리
+- [Bear](https://mactools.wooahouse.com/apps/bear.html): 아름다운 마크다운 노트 앱. Mac·iPhone·iPad 완벽 연동, 태그 시스템
+- [BetterTouchTool](https://mactools.wooahouse.com/apps/bettertouchtool.html): Mac 트랙패드·마우스·키보드 제스처 커스터마이징 강력 도구
+- [Brave](https://mactools.wooahouse.com/apps/brave.html): 프라이버시 특화 브라우저. 광고·추적기 기본 차단, 빠른 속도
+- [CleanMyMac](https://mactools.wooahouse.com/apps/cleanmymac.html): Mac 최적화·정리·악성코드 제거 올인원 툴. 불필요한 파일 자동 정리로 저장 공간 확보
+- [Cursor](https://mactools.wooahouse.com/apps/cursor.html): AI 기반 코드 에디터. Claude·GPT-4 탑재, VS Code 호환
+- [Discord](https://mactools.wooahouse.com/apps/discord.html): 커뮤니티·게이머 대표 메신저. 음성·영상·텍스트 채팅, 서버 기반 커뮤니티
+- [Docker Desktop](https://mactools.wooahouse.com/apps/docker-desktop.html): 컨테이너 기반 개발 환경. Apple Silicon(M1/M2/M3) 네이티브 지원
+- [Dropbox](https://mactools.wooahouse.com/apps/dropbox.html): 파일 동기화·공유의 원조. 크로스 플랫폼 지원, 팀 협업 기능 강력
+- [Figma](https://mactools.wooahouse.com/apps/figma.html): UI/UX 디자인 표준 도구. 실시간 협업, 브라우저·앱 모두 사용 가능
+- [Firefox](https://mactools.wooahouse.com/apps/firefox.html): 오픈소스 기반 독립 브라우저. 강력한 개인정보 보호와 높은 커스터마이징 자유도
+- [Git](https://mactools.wooahouse.com/apps/git.html): 분산 버전 관리 시스템. 모든 개발 프로젝트의 필수 도구
+- [GitHub Desktop](https://mactools.wooahouse.com/apps/github-desktop.html): GitHub 공식 Git GUI 클라이언트. 비주얼로 쉽게 버전 관리
+- [Google Chrome](https://mactools.wooahouse.com/apps/google-chrome.html): 세계 점유율 1위 브라우저. 빠른 속도와 방대한 확장 프로그램, 구글 서비스 완벽 연동
+- [Google Drive](https://mactools.wooahouse.com/apps/google-drive.html): 15GB 무료 클라우드 스토리지. Docs·Sheets·Slides 연동, 파일 공유 편리
+- [HandBrake](https://mactools.wooahouse.com/apps/handbrake.html): 오픈소스 동영상 변환 도구. MP4·MKV 변환, Apple Silicon 하드웨어 가속
+- [Homebrew](https://mactools.wooahouse.com/apps/homebrew.html): Mac 패키지 관리자. 터미널 명령어 한 줄로 개발 도구·앱 설치·관리
+- [IINA](https://mactools.wooahouse.com/apps/iina.html): Mac 전용 오픈소스 동영상 플레이어. macOS 디자인에 최적화, 거의 모든 코덱 지원
+- [Keka](https://mactools.wooahouse.com/apps/keka.html): Mac용 파일 압축·해제 앱. 드래그앤드롭으로 간편 압축, 한글 파일명 지원
+- [Keynote](https://mactools.wooahouse.com/apps/keynote.html): Apple 공식 무료 프레젠테이션 앱. 아름다운 템플릿, PowerPoint 호환
+- [LibreOffice](https://mactools.wooahouse.com/apps/libreoffice.html): 무료 오픈소스 오피스 스위트. Word·Excel·PowerPoint 완벽 호환
+- [Maccy](https://mactools.wooahouse.com/apps/maccy.html): 가벼운 Mac 클립보드 관리자. 복사 히스토리 저장 및 빠른 검색, 무료
+- [Malwarebytes](https://mactools.wooahouse.com/apps/malwarebytes.html): 악성코드·스파이웨어 전문 제거 도구. Mac 무료 버전 제공, 정밀 검사 추천
+- [Microsoft Edge](https://mactools.wooahouse.com/apps/microsoft-edge.html): Microsoft의 Chromium 기반 브라우저. 세로 탭·컬렉션·Copilot AI 기능
+- [Microsoft Teams](https://mactools.wooahouse.com/apps/microsoft-teams.html): Microsoft 팀 협업 플랫폼. Office 365 완벽 연동, 채팅·화상회의·파일 공유
+- [MonitorControl](https://mactools.wooahouse.com/apps/monitorcontrol.html): 외장 모니터 밝기·음량을 Mac 키보드로 조절. 듀얼 모니터 사용자 필수, 무료
+- [Notion](https://mactools.wooahouse.com/apps/notion.html): 노트·DB·위키·프로젝트 관리를 하나로. 개인부터 팀까지 무료 사용 가능
+- [Numbers](https://mactools.wooahouse.com/apps/numbers.html): Apple 공식 무료 스프레드시트. 직관적인 UI, Excel 호환
+- [Obsidian](https://mactools.wooahouse.com/apps/obsidian.html): 마크다운 기반 노트 앱. 링크로 연결되는 지식 그래프, 완전 로컬 저장 개인용 무료
+- [OneDrive](https://mactools.wooahouse.com/apps/onedrive.html): Microsoft 클라우드 스토리지. 5GB 무료, Office 365 구독 시 1TB 제공
+- [Opera](https://mactools.wooahouse.com/apps/opera.html): 무료 VPN·광고 차단 내장 브라우저. 게이머 특화 버전 Opera GX도 제공
+- [Pages](https://mactools.wooahouse.com/apps/pages.html): Apple 공식 무료 워드 프로세서. Mac·iPhone·iPad 완벽 연동, Word 호환
+- [Pixelmator Pro](https://mactools.wooahouse.com/apps/pixelmator-pro.html): Mac 전용 이미지 편집기. Photoshop 대안, ML 기능 탑재
+- [Postman](https://mactools.wooahouse.com/apps/postman.html): API 개발·테스트 도구. REST·GraphQL API 요청 전송 및 자동화 테스트
+- [Raycast](https://mactools.wooahouse.com/apps/raycast.html): Mac 최고의 런처 앱. 앱 실행·파일 검색·클립보드·AI 기능 무료 제공
+- [Rectangle](https://mactools.wooahouse.com/apps/rectangle.html): Mac 윈도우 관리 앱. 단축키로 창 크기·위치 즉시 조정, 무료 오픈소스
+- [Sketch](https://mactools.wooahouse.com/apps/sketch.html): Mac 전용 UI 디자인 앱. 벡터 기반, 심볼·라이브러리 강력
+- [Slack](https://mactools.wooahouse.com/apps/slack.html): 팀 커뮤니케이션 플랫폼. 채널 기반 메시지·파일 공유·앱 연동
+- [Spotify](https://mactools.wooahouse.com/apps/spotify.html): 세계 1위 음악 스트리밍. 1억 곡 이상, 광고 포함 무료 사용 가능
+- [Stats](https://mactools.wooahouse.com/apps/stats.html): 메뉴바 시스템 모니터. CPU·메모리·네트워크·배터리 실시간 표시, 무료 오픈소스
+- [TablePlus](https://mactools.wooahouse.com/apps/tableplus.html): 모던 데이터베이스 GUI 클라이언트. MySQL·PostgreSQL·MongoDB 지원
+- [Telegram](https://mactools.wooahouse.com/apps/telegram.html): 보안·속도 중심 메신저. 대용량 파일 전송·채널·봇 기능 지원
+- [The Unarchiver](https://mactools.wooahouse.com/apps/the-unarchiver.html): Mac 대표 무료 압축 해제 앱. RAR·7Z·TAR 등 50개 이상의 포맷 지원, App Store 무료
+- [TickTick](https://mactools.wooahouse.com/apps/ticktick.html): 할 일·캘린더·습관·뽀모도로 올인원 생산성 앱
+- [Todoist](https://mactools.wooahouse.com/apps/todoist.html): 세계 인기 할 일 관리 앱. 프로젝트·레이블·자연어 날짜 인식
+- [VLC](https://mactools.wooahouse.com/apps/vlc.html): 크로스플랫폼 무료 미디어 플레이어. 모든 형식 재생 가능, 오픈소스
+- [VS Code](https://mactools.wooahouse.com/apps/vs-code.html): Microsoft 무료 코드 에디터. 방대한 확장 프로그램, 거의 모든 언어 지원
+- [Warp](https://mactools.wooahouse.com/apps/warp.html): AI 탑재 차세대 터미널. 블록 단위 출력, 자연어 명령어
+- [WhatsApp](https://mactools.wooahouse.com/apps/whatsapp.html): 전 세계 20억 명 글로벌 메신저. E2E 암호화 기본, 음성·영상 통화 무료
+- [Zoom](https://mactools.wooahouse.com/apps/zoom.html): 비즈니스 화상회의 표준. 최대 100명 무료 회의, 화면 공유·녹화 지원
+- [coconutBattery](https://mactools.wooahouse.com/apps/coconutbattery.html): 맥북 배터리 상태 진단 앱. 배터리 충전 횟수·최대 용량·노화 상태 확인
+- [iStat Menus](https://mactools.wooahouse.com/apps/istat-menus.html): 강력한 메뉴바 시스템 모니터. CPU·GPU·메모리·온도·네트워크 상세 모니터링
+- [iTerm2](https://mactools.wooahouse.com/apps/iterm2.html): Mac 최고의 터미널 에뮬레이터. 탭·분할화면·자동완성·검색 등 강력한 기능
+- [카카오톡](https://mactools.wooahouse.com/apps/kakaotalk.html): 국내 1위 메신저 Mac 버전. PC에서도 카카오톡 채팅·파일 전송 가능
+
+## Site
+- Homepage: https://mactools.wooahouse.com/
+- Part of the WooaHouse family (wooahouse.com) of free browser-based tools
