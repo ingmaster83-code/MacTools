@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
 
+User-agent: Daum
+Allow: /
+
 Sitemap: https://mactools.wooahouse.com/sitemap.xml
 
 #DaumWebMasterTool:d1c8bfbd086539b56faebe2ab88ac0f1a7bd3e540258bff9923c81a57ed4ef82:5OHFs/qHHlfCvAas17iLzw==
